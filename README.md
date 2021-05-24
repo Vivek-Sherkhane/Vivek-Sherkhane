@@ -60,5 +60,7 @@ Here are some ideas to get you started:
 
 [![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=Vivek-Sherkhane)](https://github.com/Vivek-Sherkhane)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Sherkhane&layout=compact)](https://github.com/Vivek-Sherkhane)
+
 [linkedin]: https://www.linkedin.com/in/vivek-sherkhane-a00710197
 
