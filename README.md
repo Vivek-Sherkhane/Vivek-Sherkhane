@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi there 👋, I am Vivek Sherkhane <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Web developer and a Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi there 👋, I am Vivek Sherkhane </h2>
+<p><em>Web developer and a Student
 </em></p>
 
 ### About me :
@@ -56,6 +55,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
 
 [linkedin]: https://www.linkedin.com/in/vivek-sherkhane-a00710197
 
