@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 </em></p>
 
 ### About me :
-I am a MERN stack developer, currently working on web projects.
-I love coding and I prefer C++ for it.
-I do competitive programming too .
+- I am a MERN stack developer, currently working on web projects.
+- I love coding and I prefer C++ for it.
+- I do competitive programming too .
 
 ### Tools and technologies i use :
 <p>
