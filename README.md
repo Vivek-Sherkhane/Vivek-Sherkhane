@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I love coding and I prefer C++ for it.
 - I do competitive programming too .
 
-### Tools and technologies i use :
+### Tools and technologies I use :
 <p>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
