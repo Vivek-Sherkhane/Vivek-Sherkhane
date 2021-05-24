@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+## Github Stats
+
 [![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=Vivek-Sherkhane)](https://github.com/Vivek-Sherkhane)
 
 [linkedin]: https://www.linkedin.com/in/vivek-sherkhane-a00710197
